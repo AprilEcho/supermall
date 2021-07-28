@@ -1,4 +1,4 @@
-# xmgmail
+# supermall
 
 ```A Vue project```
 
